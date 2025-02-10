@@ -10,6 +10,11 @@
 </h3>
 
 ---
+<!-- #### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Ramdev-Lodhi&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+### Github Streaks
+<img src="https://streak-stats.demolab.com/?user=Ramdev-Lodhi&theme=dark" width="48%" align="right">
+--- -->
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
